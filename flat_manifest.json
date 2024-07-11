@@ -1,0 +1,13 @@
+{
+	"target-level": 0,
+	"target-sublevel": 0,
+	"wallpapers": [{
+		"title": "Dark Porcelain",
+		"thumbnail": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/flat/thumbnails/porcelain_dark_thumbnail.webp",
+		"wallpaper": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/flat/porcelain_dark.webp"
+	}, {
+		"title": "Purple Remix",
+		"thumbnail": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/flat/thumbnails/purple_remix_thumbnail.webp",
+		"wallpaper": "https://raw.githubusercontent.com/RisingTechOSS/risingwalls_storage/fourteen/flat/purple_remix.webp"
+	}]
+} 
